@@ -1,0 +1,27 @@
+html{
+
+	height: 100%;
+}
+
+
+
+body{
+	background:url(jonas-vincent-2717.jpg);
+	color: white;
+	background-size: cover;
+	background-position: center;
+	font-family: Lato;
+}
+
+#me{
+	text-align: center;
+	padding-top: 25%;
+}
+hr{
+	width: 500px;
+
+}
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
